@@ -1,0 +1,7 @@
+node_modules
+dist
+.history
+tmp
+public
+build
+src/libraries
